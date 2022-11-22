@@ -1,6 +1,6 @@
 ---
 title: "brojob2"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: jizzfizz
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
